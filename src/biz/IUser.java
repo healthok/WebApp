@@ -1,5 +1,6 @@
 package biz;
-
-public interface IUser {
-
+import model.User;
+public interface IUser 
+{
+public void createUser(User us);
 }
