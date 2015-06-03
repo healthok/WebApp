@@ -1,4 +1,4 @@
-package hibernate.model;
+package model;
 
 import javax.persistence.Embeddable;
 import javax.persistence.GeneratedValue;
